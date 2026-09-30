@@ -1,0 +1,13 @@
+producto,existencia,punto_reorden,costo_unitario,proveedor
+Laptop,51,20,13500.0,DigitalTech
+Tablet,25,12,5250.0,RedesNet
+Smartphone,26,24,9000.0,DigitalTech
+Monitor,15,21,2625.0,RedesNet
+Teclado,54,15,600.0,DigitalTech
+Mouse,23,11,337.5,RedesNet
+Impresora,9,24,3150.0,MovilPro
+Disco SSD,33,23,1125.0,OfficePlus
+Audífonos,16,14,900.0,CompuWorld
+Webcam,15,17,712.5,RedesNet
+Router,30,16,675.0,RedesNet
+Smartwatch,38,21,3750.0,CompuWorld
